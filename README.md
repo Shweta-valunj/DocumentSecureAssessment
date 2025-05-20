@@ -7,8 +7,8 @@ Secure document storage backend with JWT authentication, versioned file uploads,
 ## Setup Instructions
 
 1. Clone the repo:  
-   `git clone https://github.com/Shweta-valunj/SecureDocumentStorageAsse.git`  
-   `cd SecureDocumentStorageAsse`
+   `git clone https://github.com/Shweta-valunj/DocumentSecureAssessment.git`  
+   `cd DocumentSecureAssessment`
 
 
 2. Update `appsettings.json` with your SQL Server connection string and JWT settings.
