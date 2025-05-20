@@ -10,5 +10,7 @@ namespace DocumentSecureAssessment.Data
         : base(options)
         {
         }
+        public DbSet<Document> Documents { get; set; }
+        
     }
 }
